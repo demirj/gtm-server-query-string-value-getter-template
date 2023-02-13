@@ -1,0 +1,5 @@
+homepage: "https://www.demirjasarevic.com/"
+documentation: "https://github.com/demirj/gtm-server-query-string-value-getter-template/blob/main/README.md"
+versions:
+  - sha: 255bce3adb75ede1bd42416662c68ab792b6841a
+    changeNotes: Initial release.
