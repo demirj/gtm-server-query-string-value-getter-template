@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Query string value Getter",
+  "categories": ["TAG_MANAGEMENT"],
   "description": "Return the value of a provided query string name.",
   "containerContexts": [
     "SERVER"
